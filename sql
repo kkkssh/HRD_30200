@@ -70,4 +70,4 @@ where c.subcode = u.subcode
 and t.stuid = c.sid
 and c.subcode = 'A001';
 
-
+select * from tbl_score_202210;
